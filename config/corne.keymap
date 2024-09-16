@@ -82,9 +82,9 @@
             //                    | GUI | LWR | SPC |   | ENT | RSE  | ALT |
 
             bindings = <
-&kp TAB    &kp V           &kp G           &kp M        &kp F        &kp DOUBLE_QUOTES    &kp SQT    &kp K            &kp U         &kp J           &kp HASH  &kp BSPC
-&kp LCTRL  &mt LEFT_GUI R  &mt LEFT_ALT S  &mt LS(T) T  &mt LCTRL H  &kp P                &kp Y      &mt RS(RCTRL) I  &mt RS(E) E   &mt LEFT_ALT O  &kp A     &kp SQT
-&kp LSHFT  &kp X           &kp C           &kp L        &kp D        &kp B                &kp MINUS  &kp W            &kp SLASH     &kp COMMA       &kp DOT   &kp ESC
+&kp TAB    &kp V           &kp G           &kp M        &kp F        &kp DOUBLE_QUOTES    &kp SQT    &kp K            &kp U         &kp J           &kp HASH        &kp BSPC
+&kp LCTRL  &mt LEFT_GUI R  &mt LEFT_ALT S  &mt LS(T) T  &mt LCTRL H  &kp P                &kp Y      &mt RS(RCTRL) I  &mt RS(E) E   &mt LEFT_ALT O  &mt LEFT_GUI A  &kp SQT
+&kp LSHFT  &kp X           &kp C           &kp L        &kp D        &kp B                &kp MINUS  &kp W            &kp SLASH     &kp COMMA       &kp DOT         &kp ESC
                                            &mo 3        &kp N        &kp BACKSPACE        &to 1      &kp SPACE        &kp C_REPEAT
             >;
         };
